@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "584088516358",
+    "firebase_url": "https://fir-prac-afb81-default-rtdb.firebaseio.com",
+    "project_id": "fir-prac-afb81",
+    "storage_bucket": "fir-prac-afb81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584088516358:android:0fc3862fb0059f0cedd087",
+        "android_client_info": {
+          "package_name": "com.rtm.firebasepractis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCH-qWn5JpG479vaLX89Lkn5szrY30HuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
